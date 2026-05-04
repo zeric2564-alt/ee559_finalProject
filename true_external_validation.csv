@@ -1,0 +1,4 @@
+Model,Accuracy,F1-score,Precision,Recall,ROC-AUC,False Positives,False Negatives
+True External LR,0.2748,0.2526,0.2868,0.2256,0.193,92,127
+True External DT,0.3113,0.2877,0.3281,0.2561,0.3574,86,122
+True External RF,0.1291,0.132,0.1439,0.122,0.0669,119,144

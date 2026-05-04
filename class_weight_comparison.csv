@@ -1,0 +1,3 @@
+Model,Accuracy,F1-score,Precision,Recall,ROC-AUC,False Positives,False Negatives
+Default Logistic Regression,0.8852,0.8772,0.8621,0.8929,0.961,4,3
+Balanced Logistic Regression,0.8525,0.8475,0.8065,0.8929,0.961,6,3

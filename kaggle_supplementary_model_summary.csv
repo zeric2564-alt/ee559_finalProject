@@ -1,0 +1,4 @@
+Model,Train Accuracy,Test Accuracy,F1-score,Precision,Recall,ROC-AUC
+Kaggle Supp. Logistic Regression,0.8672,0.8197,0.8308,0.8438,0.8182,0.8831
+Kaggle Supp. Decision Tree,1.0,0.8033,0.8182,0.8182,0.8182,0.8019
+Kaggle Supp. Random Forest,0.8963,0.7869,0.806,0.7941,0.8182,0.8745

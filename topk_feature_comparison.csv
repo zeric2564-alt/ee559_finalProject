@@ -1,0 +1,4 @@
+Model,Num Features,Accuracy,F1-score,Precision,Recall,ROC-AUC
+Top-k Logistic Regression,5,0.8525,0.8364,0.8519,0.8214,0.9026
+Top-k Decision Tree,5,0.8689,0.8571,0.8571,0.8571,0.9042
+Top-k Random Forest,5,0.8361,0.8214,0.8214,0.8214,0.9264

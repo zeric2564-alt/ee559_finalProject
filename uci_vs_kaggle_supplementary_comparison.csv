@@ -1,0 +1,7 @@
+Experiment,Model,Test Accuracy,F1-score,Precision,Recall,ROC-AUC
+UCI main experiment,Logistic Regression,0.8852,0.8772,0.8621,0.8929,0.961
+UCI main experiment,Decision Tree,0.8689,0.8571,0.8571,0.8571,0.8712
+UCI main experiment,Random Forest,0.8852,0.8852,0.8182,0.9643,0.9524
+Kaggle supplementary split,Kaggle Supp. Logistic Regression,0.8197,0.8308,0.8438,0.8182,0.8831
+Kaggle supplementary split,Kaggle Supp. Decision Tree,0.8033,0.8182,0.8182,0.8182,0.8019
+Kaggle supplementary split,Kaggle Supp. Random Forest,0.7869,0.806,0.7941,0.8182,0.8745

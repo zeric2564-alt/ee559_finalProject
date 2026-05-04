@@ -1,0 +1,14 @@
+feature,importance
+num__thal,0.5369269245203829
+num__cp,0.1941397939851027
+num__ca,0.16877280509564715
+num__oldpeak,0.06685311550976401
+num__age,0.033307360889103244
+num__sex,0.0
+num__trestbps,0.0
+num__chol,0.0
+num__fbs,0.0
+num__restecg,0.0
+num__thalach,0.0
+num__exang,0.0
+num__slope,0.0
