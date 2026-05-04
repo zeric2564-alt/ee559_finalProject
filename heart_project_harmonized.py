@@ -722,8 +722,6 @@ def run_kaggle_supplementary_experiment():
     save_summary(results, "kaggle_supplementary_model_summary.csv")
     plot_confusion(results, "kaggle_supplementary_confusion_matrices.png")
     plot_roc(results, y_test, "kaggle_supplementary_roc_curve.png", title="Kaggle Supplementary ROC Curve")
-
-    # Optional backward-compatible filename, in case older report code expects it.
     save_summary(results, "kaggle_model_summary.csv")
 
     return {
